@@ -31,8 +31,7 @@ namespace Practica_3._1_GitHub_AICDAW2223
             // telegrama urgente?
             if (radioButton2.Checked)
                 tipoTelegrama = 'u';
-
-            else
+            if (radioButton1.Checked)
                 tipoTelegrama = 'o';
 
 

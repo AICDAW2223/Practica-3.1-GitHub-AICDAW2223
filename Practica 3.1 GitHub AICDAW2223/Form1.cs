@@ -29,8 +29,11 @@ namespace Practica_3._1_GitHub_AICDAW2223
             //Leo el telegrama
             textoTelegrama = txtTelegrama.Text;
             // telegrama urgente?
-            if (cbUrgente.Checked)
+            if (radioButton2.Checked)
                 tipoTelegrama = 'u';
+            if (radioButton1.Checked)
+                tipoTelegrama = 'o';
+
 
 
             //Obtengo el número de letras que forma el telegrama

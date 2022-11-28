@@ -25,13 +25,14 @@ namespace Practica_3._1_GitHub_AICDAW2223
             int numPalabras, sinespacio;
             double coste;
 
-            //AICDAW2223
+            //AIC2DAW2223
             //Leo el telegrama
             textoTelegrama = txtTelegrama.Text;
             // telegrama urgente?
             if (radioButton2.Checked)
                 tipoTelegrama = 'u';
-            if (radioButton1.Checked)
+
+            else
                 tipoTelegrama = 'o';
 
 

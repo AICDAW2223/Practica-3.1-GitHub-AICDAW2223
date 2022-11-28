@@ -32,8 +32,6 @@ namespace Practica_3._1_GitHub_AICDAW2223
             if (cbUrgente.Checked)
                 tipoTelegrama = 'u';
 
-            else
-                tipoTelegrama = 'o';
 
             //Obtengo el número de letras que forma el telegrama
             numPalabras = textoTelegrama.Length;

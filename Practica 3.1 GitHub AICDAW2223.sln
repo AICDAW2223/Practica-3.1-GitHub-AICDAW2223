@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 3.1 GitHub AICDAW2223", "Practica 3.1 GitHub AICDAW2223\Practica 3.1 GitHub AICDAW2223.csproj", "{A0042880-C427-4F94-A782-018F52DC9F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0042880-C427-4F94-A782-018F52DC9F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0042880-C427-4F94-A782-018F52DC9F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0042880-C427-4F94-A782-018F52DC9F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0042880-C427-4F94-A782-018F52DC9F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67383A64-6D2B-4181-A657-EE64F0261D28}
+	EndGlobalSection
+EndGlobal
